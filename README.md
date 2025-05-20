@@ -1,7 +1,7 @@
 
 # Reputation Checker Using Financial News
 
-A cli based tool that analyzes financial news headlines about any topic — like companies, policies, or sectors — and shows whether the overall sentiment is positive or negative using AI and visual graphs.
+A CLI based tool that analyzes financial news headlines about any topic — like companies, policies, or sectors — and shows whether the overall sentiment is positive or negative using AI and visual graphs.
 
 
 ## How It works:
